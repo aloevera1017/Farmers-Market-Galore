@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  background-image: url("https://preview.redd.it/3uc2gpntor661.jpg?width=1600&format=pjpg&auto=webp&s=d35f9a97a1f5ba1b5d66f9b6f00b8d020042e575");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.fs-4 {
+  color: white;
+}
+
+/* .p-4 {
+  background-color: #FFFFC5;
+} */
+/* .nav-item {
+  color: white;
+} */
